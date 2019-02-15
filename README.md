@@ -3,5 +3,5 @@ This is a basic Todo list web application written with HTML, CSS, JavaScript, No
 How to use: 
 Web application has predefined todo lists based on Home, Work, School. 
 
-![](Todo-List-Web-Application/TodoList1.PNG)
+![](public/images/TodoList1.PNG)
       
